@@ -1,0 +1,22 @@
+# Created b# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment & Local Configuration Files
+.env
+.vscode/
+.idea/
+
+# Testing & Coverage output
+.pytest_cache/
+.coverage
+htmlcov/y venv; see https://docs.python.org/3/library/venv.html
+
